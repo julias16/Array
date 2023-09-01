@@ -1,7 +1,7 @@
 #include <stdio.h>
 int main()
 {
-    int arr[100], i, j, n, count=1;
+    int arr[100], i, j, n, count=0;
     printf("How many numbers: ");
     scanf("%d", &n);
     for (i= 0; i< n; i++)
